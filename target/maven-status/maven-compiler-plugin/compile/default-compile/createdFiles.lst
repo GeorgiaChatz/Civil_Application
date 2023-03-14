@@ -1,0 +1,4 @@
+com\example\MongoTest\controllers\JobsController.class
+com\example\MongoTest\controllers\MongoDbApplication.class
+com\example\MongoTest\controllers\repositories\JobsRepository.class
+com\example\MongoTest\controllers\tables\Jobs.class
